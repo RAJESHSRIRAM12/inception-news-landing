@@ -33,7 +33,7 @@ export default function PhaseOne() {
           lineHeight: "1.6"
         }}
       >
-        InceptionNews is currently a concept. There is no working prototype yet—only a
+        InceptionNews is currently a concept. There is no working prototype yet only a
         vision, a direction, and a mission worth building. This project is in the idea
         stage, but the mission is already clear. We're researching, planning, and
         preparing to build something meaningful.

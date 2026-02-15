@@ -52,7 +52,7 @@ const items = [
         color: "#333",
         fontStyle: "italic"
       }}>
-        "News shouldn't feel like disconnected fragments. It should feel like a story —
+        "News shouldn't feel like disconnected fragments. It should feel like a story :
         with a beginning, a middle, and an end."
       </p>
     </div>

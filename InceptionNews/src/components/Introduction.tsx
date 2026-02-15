@@ -9,11 +9,11 @@ export default function Introduction() {
         <p style={styles.text}>
           Every headline we read is just the final moment of a much longer
           journey. Somewhere behind the breaking alerts and rapid updates lies
-          the origin—the first spark that set the entire story in motion.
+          the origin the first spark that set the entire story in motion.
         </p>
 
         <p style={styles.beautiful}>
-          "But in today’s fast-moving information world, the beginning is buried,
+          "But in today’s fast moving information world, the beginning is buried,
           fragmented, or forgotten."
         </p>
       </div>
