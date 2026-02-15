@@ -46,6 +46,23 @@ export default function JoinTheMission() {
         >
           View on GitHub
         </a>
+
+        {/* Learn More Button */}
+        <a
+          href="https://github.com/RAJESHSRIRAM12/inception-news/discussions/1"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{
+            padding: "10px 20px",
+            background: "#333",
+            color: "#fff",
+            borderRadius: "6px",
+            textDecoration: "none",
+            fontWeight: "600"
+          }}
+        >
+          Discussion
+        </a>
       </div>
     </div>
   );
